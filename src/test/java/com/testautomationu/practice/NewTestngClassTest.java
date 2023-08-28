@@ -3,7 +3,7 @@ package com.testautomationu.practice;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class NewTestngClass {
+public class NewTestngClassTest {
 
     String employeeName;
     // test case 1

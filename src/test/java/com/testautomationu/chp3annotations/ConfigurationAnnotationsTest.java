@@ -2,7 +2,7 @@ package com.testautomationu.chp3annotations;
 
 import org.testng.annotations.*;
 
-public class Configuration_Annotations {
+public class ConfigurationAnnotationsTest {
 
     // this will always execute first
     @BeforeSuite
