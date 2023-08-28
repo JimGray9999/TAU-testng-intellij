@@ -1,4 +1,4 @@
-package com.testautomationu.src.test.java.chp7dependencytesting;
+package com.testautomationu.chp7dependencytesting;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

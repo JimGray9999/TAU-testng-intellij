@@ -1,4 +1,4 @@
-package com.testautomationu.src.test.java.chp8datadriventesting;
+package com.testautomationu.chp8datadriventesting;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
