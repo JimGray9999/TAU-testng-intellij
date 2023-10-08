@@ -10,7 +10,7 @@ public class NewTestngClassTest {
     @Test()
     public void testCase1() {
         System.out.println("in test case 1 of NewTestngClass");
-        String employeeFullName = employeeName + " Anand";
+        String employeeFullName = employeeName + " Gray";
         System.out.println("employeeFullName is: "+employeeFullName);
     }
 
